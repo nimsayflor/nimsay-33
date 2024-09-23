@@ -1,7 +1,21 @@
-Programação   
-O que é JavaScript? 
-O JavaScript é uma linguagem de programação
+body {
+    background-color: rgb(149, 14, 228);
+}
 
-Programação   
-O que é CSS? 
-O CSS é uma linguagem de estilização
+footer {
+    background-color: rgb(95, 10, 231);
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
+footer p {
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
+}
+body {
+    background-color: rgb(170, 3, 236);
+    font-family: Bai Jamjuree;
+}
