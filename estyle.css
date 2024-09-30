@@ -1,6 +1,10 @@
+<link rel="stylesheet" href="assets/style.css">
 body {
     background-color: rgb(149, 14, 228);
 }
+
+
+#container{}
 
 footer {
     background-color: rgb(95, 10, 231);
