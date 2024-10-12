@@ -1,6 +1,5 @@
-<link rel="stylesheet" href="assets/style.css">
-
 body {
+    background: url(img/);
     background-color: rgb(149, 14, 228);
 }
 #container {
@@ -27,6 +26,8 @@ body {
     padding: 0.5rem;
     position: absolute;
     margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
 }
 
 
