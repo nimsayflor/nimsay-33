@@ -1,3 +1,9 @@
+:root {
+    --text-color: #e20774;
+    --card-front-color: #000000;
+    --card-back-color: #6400d6;
+}
+
 body {
     background: url(brinquedosgato_910x686.webp);
     background-color: rgb(149, 14, 228);
