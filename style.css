@@ -4,10 +4,12 @@
     --card-back-color: #6400d6;
 }
 
+
 body {
     background: url(brinquedosgato_910x686.webp);
     background-color: rgb(149, 14, 228);
 }
+
 #container {
     display: flex;
 }
@@ -21,13 +23,15 @@ body {
 }
 
 .cartao_conteudo {
+    background-color: var(--card-front-color);
     text-align: center;
-    background-color: rgb(233, 11, 122);
+   /* background-color: rgb(233, 11, 122); /*
     height: 100%;
 }
 
 .cartao_conteudo{
-    background-color: black;
+    background: var(--text-color);
+    border: 1px solid var(--text-color);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -36,6 +40,10 @@ body {
     font-size: 1vw;
 }
 
+.cartao_conteudo p {
+margin-top: 1rem;
+padding: 2rem;
+}
 
 
 
